@@ -1,6 +1,8 @@
 # soso.ooo
 
-一个白名单搜索引擎. 基于Google.
+https://soso.ooo
+
+一个基于Google的白名单搜索引擎
 
 ### 提议新的站点
 

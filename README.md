@@ -8,7 +8,7 @@ https://soso.ooo
 
 ### 修改 Chrome 地址栏的默认搜索引擎为 soso.ooo
 
-1. 打开 chrome://settings/searchEngines
+1. 在地址栏输入 `chrome://settings/searchEngines`，回车
 2. 点击“其他搜索引擎”右侧的**添加**按钮:
     - 搜索引擎: `soso`
     - 关键字: `ss`

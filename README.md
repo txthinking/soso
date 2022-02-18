@@ -1,10 +1,17 @@
 # soso.ooo
 
+[🗣 News](https://t.me/txthinking_news)
+[💬 Join](https://join.txthinking.com)
+[🩸 Youtube](https://www.youtube.com/txthinking) 
+[❤️ Sponsor](https://github.com/sponsors/txthinking)
+
 https://soso.ooo
 
 一个基于Google的白名单搜索引擎
 
 > 目前内容农场泛滥，白名单只收录体验好的站点。
+
+❤️ A project by [txthinking.com](https://www.txthinking.com)
 
 ### 修改 Chrome 地址栏的默认搜索引擎为 soso.ooo
 
